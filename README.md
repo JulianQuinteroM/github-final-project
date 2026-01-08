@@ -1,10 +1,17 @@
-# This is the README.md file for the **github-final-project**
+final-coursera
+This repository is part of the Coursera "Getting Started with Git and GitHub" final project.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+It contains a simple shell script that calculates simple interest using the formula:
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+simple interest = p * t * r
+
+where:
+
+p = principal amount
+t = time in years
+r = rate of interest
+Files in this repository
+simple-interest.sh — shell script to calculate simple interest
+LICENSE — Apache 2.0 license
+CODE_OF_CONDUCT.md — behavior guidelines
+CONTRIBUTING.md — instructions for contributors
